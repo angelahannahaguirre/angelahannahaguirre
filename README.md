@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning some new tech and frameworks
 - 💞️ I’m looking to collaborate on Java and a bit of UI (Angular, etc)
 - 📫 How to reach me quick -> www.instagram.com/lavieestbellexxvii --- if you can wait, then notify me in budsaguirre@gmail.com
+- LinkedIn -> https://www.linkedin.com/in/angela-hannah-aguirre/
+- YouTube -> https://www.youtube.com/channel/UCnQ6C-NQs-HmAbiRNbZzQfQ
+- LinkTree -> linktr.ee/anjaguirre
 
 <!---
 angelahannahaguirre/angelahannahaguirre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
